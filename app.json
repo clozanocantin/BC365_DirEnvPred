@@ -1,0 +1,23 @@
+{
+  "id": "11ff5e0d-31e3-4c37-96c3-89bf9a5fb706",
+  "name": "BC365-CodDirEnvPred",
+  "publisher": "ACTIO",
+  "brief": "Direccion envío predeterminada",
+  "description": "Aplica dirección envío predeterminada del cliente en Pedidos de Venta",
+  "version": "1.0.0.0",
+  "privacyStatement": "http://clipdynamics.com/privacyStatement",
+  "EULA": "http://clipdynamics.com/EULA",
+  "help": "http://clipdynamics.com/help",
+  "url": "http://clipdynamics.com",
+  "logo": "./logos/logo.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.3.23590.23828",
+  "showMyCode": true,
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
